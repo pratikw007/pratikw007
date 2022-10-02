@@ -65,7 +65,6 @@
 
 <br/>
 <br>
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=pratikw007)
 <br/>
 
 ![Dino](https://raw.githubusercontent.com/pratikw007/praveenscience/master/dino.gif)
