@@ -52,7 +52,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/pratikw007/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikw007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pratikw007/github-readme-stats"><img alt="Prateek Waghmare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pratikw007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pratikw007/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikw007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -64,10 +64,18 @@
 <a href="https://github.com/pratikw007/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratikw007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+<br>
+![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=pratikw007)
 <br/>
+
+![Dino](https://raw.githubusercontent.com/pratikw007/praveenscience/master/dino.gif)
+
 <h2>## Daily Contrubution:</h2>
- <a href="https://github.com/pratikw007/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://raw.githubusercontent.com/pratikw007/ravinder-chadha/output/github-contribution-grid-snake.svg" /></a>
-       
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/pratikw007/praveenscience/master/soc/snake.svg)
+
+     
 ## Connect with me:
 <p align="left">
 
