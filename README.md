@@ -61,19 +61,19 @@
 <br/>
 <br/>
 
-<a href="https://github.com/pratikw007/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratikw007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pratikw007/github-readme-activity-graph"><img alt="Pratik Waghmare Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pratikw007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br>
 <br/>
 
 ![Dino](https://raw.githubusercontent.com/pratikw007/praveenscience/master/dino.gif)
-
+<!-- 
 <h2>## Daily Contrubution:</h2>
 Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/pratikw007/praveenscience/master/soc/snake.svg)
-
+ -->
      
 ## Connect with me:
 <p align="left">
